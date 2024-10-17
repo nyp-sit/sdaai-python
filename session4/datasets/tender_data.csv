@@ -1,0 +1,14 @@
+TENDER NO,tender description,agency,award date,tender detail,supplier,awarded amt
+TENDER-001,Construction of Highway,SIM_Transport Dept.,15/5/2023,Road construction project,ABC Construction,5000000
+TENDER-002,IT Services,SIM_IT Dept.,20/6/2023,Network upgrade,XYZ Tech,1000000
+TENDER-003,Office Supplies,SIM_Admin Dept.,10/7/2023,Stationery and supplies,Office Supplies Inc.,50000
+TENDER-004,Vehicle Maintenance,SIM_Fleet Dept.,5/8/2023,Vehicle repairs and maintenance,AutoFix Ltd.,200000
+TENDER-005,Consulting Services,SIM_HR Dept.,30/9/2023,HR consulting,ConsultCo,150000
+TENDER-006,Software Development,SIM_IT Dept.,12/10/2023,New software development,DevMasters,800000
+TENDER-007,Marketing Campaign,SIM_Marketing Dept.,25/11/2023,Advertising campaign,Ad Agency,300000
+TENDER-008,Security Services,SIM_Security Dept.,3/12/2023,Security guard services,SecureGuard,120000
+TENDER-009,Cleaning Services,SIM_Facilities Dept.,18/1/2024,Office cleaning,CleanCo,80000
+TENDER-010,Catering Services,SIM_Catering Dept.,22/2/2024,Event catering,Tasty Catering,40000
+BCA000ETT19300006,Replacement of Air-Conditioning System for Offices and Classrooms at BCA Academy,Building and Construction Authority,31/5/2019,Awarded to Suppliers,TACTICS SYSTEM ENGINEERING PTE LTD,168500
+BCA000ETT19300007,Term Contract for Comprehensive maitenance for Horticulture works at BCA Academy,Building and Construction Authority,31/5/2019,Awarded to Suppliers,BSG LANDSCAPE & CONSTRUCTION PTE. LTD.,324000
+BCA000ETT19300011,PROVISION OF MARINE CONSULTANCY SERVICES FOR BCA-MANAGED AGGREGATE TERMINALS AND RELATED FACILITIES,Building and Construction Authority,11/7/2019,Awarded to Suppliers,AXCEL MARINE PTE. LTD.,12800
